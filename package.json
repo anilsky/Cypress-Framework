@@ -1,0 +1,19 @@
+{
+  "name": "ukBBT-Tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.8.0"
+  },
+  "devDependencies": {
+    "cypress-get-it": "^1.0.1",
+    "cypress-plugin-tab": "^1.0.5"
+  }
+}
