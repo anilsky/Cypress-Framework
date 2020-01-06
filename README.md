@@ -12,11 +12,15 @@ Download visual code(IDE) from https://code.visualstudio.com/
 # Installing Cypress
 
 create a directory/folder - in which you save your tests
+
 using terminal in vs code create the package.json
+
 using npm package install cypress
+
 install cypress into the same folder where your tests will be (ex:package.json) 
 
 # How the tests are run 
 
 Using CL - npx cypress open
+
 Headless using CL - npx cypress run
