@@ -4,7 +4,9 @@ sample framework using Sky UI
 # Pre-requisites
 
 Download npm from https://nodejs.org/en/
+
 check if it has been installed using the command node --version
+
 Download visual code(IDE) from https://code.visualstudio.com/
 
 # Installing Cypress
